@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">English To Metric Converter</string>
+    <string name="txtTitle">American to Metric Converter</string>
+    <string name="txtNumber">Number to Convert</string>
+    <string name="prompt">Selected Conversion Type</string>
+    <string name="btnConvert">CONVERT</string>
+
+    <string-array name="txtConvertList">
+        <item>Feet to Meters</item>
+        <item>Inches to Centimeters</item>
+        <item>Miles to Kilometers</item>
+    </string-array>
+
+</resources>
